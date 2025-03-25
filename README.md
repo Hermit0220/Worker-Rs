@@ -1,4 +1,3 @@
-![workers-rs](.github/logo.png)
 [![crates.io](https://img.shields.io/crates/v/worker)](https://crates.io/crates/worker)
 [![docs.rs](https://img.shields.io/docsrs/worker)](https://docs.rs/worker)
 
